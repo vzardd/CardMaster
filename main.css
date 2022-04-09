@@ -1,0 +1,77 @@
+#cm2{
+     height:40%;
+	 width:18%;
+	 position:fixed;
+	 bottom:-5%;
+	 left:0%;
+	}
+#container{
+	        height:100%;
+			width:100%;
+			position:relative;
+}
+#abra{
+	   display:none;
+	   font-size:100px;
+	   color:white;
+	   text-shadow:1px 1px 1px grey;
+	   font-family:Gabriola;
+	   text-align:center;
+	   position:fixed;
+	   top:1%;
+	   left:36%;
+}
+.tc{
+	   height:33%;
+	   width:11%;
+	   position:absolute;
+	   left:44.4%;
+}
+#spbg{
+	    display:none;
+	    background-color:black;
+		opacity:0.5;
+		position:fixed;
+		top:0%;
+		height:100%;
+		width:100%;
+		padding:0 0;
+}
+#special{
+	display:none;
+	height:50%;
+	width:15%;
+	position:fixed;
+	top:30%;
+	left:42%;
+}
+#start{
+	   text-decoration:none;
+	   background-color:green;
+	   color:white;
+	   font-size:40px;
+	   text-align:center;
+	   text-shadow:1px 1px 1px grey;
+	   height:60px;
+	   width:300px;
+	   border-radius:5px;
+	   position:fixed;
+	   top:85%;
+	   left:43%;
+	   border-style:inset;
+}
+#start:hover{
+	   text-decoration:none;
+	   background-color:green;
+	   color:white;
+	   font-size:40px;
+	   text-align:center;
+	   text-shadow:1px 1px 1px grey;
+	   height:60px;
+	   width:300px;
+	   border-radius:5px;
+	   position:fixed;
+	   top:85%;
+	   left:43%;
+	   border-style:outset;
+}

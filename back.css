@@ -1,0 +1,122 @@
+#bg{
+    background-image:url("bg.jpg");
+	background-position:center;
+	background-attachment:fixed;
+	background-size:cover;
+	background-repeat:no-repeat;
+	padding:0 0;
+}
+#master{
+         position:fixed;
+		 bottom:1%;
+		 left:1%;
+		 height:55%;
+		 width:19%;
+		 transform:rotateY(180deg);
+	}
+#trans{
+	    background-color:black;
+		opacity:0.5;
+		height:100%;
+		width:100%;
+		padding:0 0;
+}
+#cm{
+	position:fixed;
+	top:20%;
+	left:40%;
+	height:60%;
+	width:30%;
+}
+#play{
+	   text-decoration:none;
+	   background-color:green;
+	   color:white;
+	   font-size:60px;
+	   text-align:center;
+	   text-shadow:1px 1px 1px grey;
+	   height:60px;
+	   width:300px;
+	   border-radius:5px;
+	   position:fixed;
+	   top:71%;
+	   left:43%;
+	   padding:10px 10px;
+	   border-style:inset;
+}
+#play:hover{
+	   text-decoration:none;
+	   background-color:green;
+	   color:white;
+	   font-size:60px;
+	   text-align:center;
+	   text-shadow:1px 1px 1px grey;
+	   height:60px;
+	   width:300px;
+	   border-radius:5px;
+	   position:fixed;
+	   top:71%;
+	   left:43%;
+	   padding:10px 10px;
+	   border-style:outset;
+}
+#ctrans{
+	    background-color:black;
+		opacity:0.5;
+		height:89%;
+		width:79%;
+		padding:0 0;
+		position:fixed;
+		top:2%;
+		right:2%;
+		border-radius:10px;
+}
+.msg{
+	  height:8%;
+	  width:15%;
+	  background-color:white;
+	  border-style:inset;
+	  border-radius:10px;
+	  text-align:center;
+	  color:black;
+	  font-size:25px;
+	  padding:15px 5px;
+	  text-shadow:1px 1px 1px grey;
+	  font-family:Gabriola;
+	  position:fixed;
+	  top:30%;
+	  left:2%;
+}
+#cont{
+	   text-decoration:none;
+	   background-color:green;
+	   color:white;
+	   font-size:40px;
+	   text-align:center;
+	   text-shadow:1px 1px 1px grey;
+	   height:40px;
+	   width:200px;
+	   border-radius:5px;
+	   position:fixed;
+	   top:88%;
+	   left:51%;
+	   padding:10px 10px;
+	   border-style:inset;
+}
+#cont:hover{
+	   text-decoration:none;
+	   background-color:green;
+	   color:white;
+	   font-size:40px;
+	   text-align:center;
+	   text-shadow:1px 1px 1px grey;
+	   height:40px;
+	   width:200px;
+	   border-radius:5px;
+	   position:fixed;
+	   top:88%;
+	   left:51%;
+	   padding:10px 10px;
+	   border-style:outset;
+}
+	
